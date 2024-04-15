@@ -20,7 +20,7 @@ I'm a software developer with a keen interest in building robust and scalable ap
   - ![Web Development](https://img.shields.io/badge/-Web%20Development-4285F4?logo=html5&logoColor=white)
 
 ## Get in Touch
-- GitHub: [![Ibrahimu27](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](Link to GitHub profile)
+- GitHub: Ibrahimu27
 - Email: ibrahimujeremia@gmail.com
 
 Feel free to reach out if you have any questions, project ideas, or just want to connect!
