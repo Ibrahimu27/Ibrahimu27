@@ -8,6 +8,7 @@ I'm a software developer with a keen interest in building robust and scalable ap
 ## Skills
 - Programming Languages: 
   - ![Dart](https://img.shields.io/badge/-Dart-blue?logo=dart&logoColor=white)
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
   - ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
   - ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 - Frameworks and Technologies: 
